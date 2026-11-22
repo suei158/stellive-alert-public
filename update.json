@@ -1,7 +1,7 @@
 {
-  "version": "1.0.0",
-  "notes": "공개판 첫 배포입니다. 멤버별 알림과 멀티뷰를 제공하며 새 버전은 실행 중 자동으로 알려드립니다.",
-  "url": "https://github.com/suei158/stellive-alert-public/releases/download/v1.0.0/StelliveAlert.exe",
-  "sha256": "d9f669f96d9bc87e88a7f71caa7474a9c32997cca0e6355feadcdfca860d2139",
-  "size": 112326381
+  "version": "1.0.1",
+  "notes": "기존 실행 파일·창·트레이 아이콘을 복원하고, 메인 화면 왼쪽 위 로고와 그 자리를 제거했습니다.",
+  "url": "https://github.com/suei158/stellive-alert-public/releases/download/v1.0.1/StelliveAlert.exe",
+  "sha256": "68bc9a00117d30d5ce85f632773e52d09f77a235ccdefdfc36997b69e294974a",
+  "size": 112298546
 }
