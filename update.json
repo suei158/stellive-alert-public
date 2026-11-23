@@ -1,7 +1,7 @@
 {
-  "version": "1.0.1",
-  "notes": "기존 실행 파일·창·트레이 아이콘을 복원하고, 메인 화면 왼쪽 위 로고와 그 자리를 제거했습니다.",
-  "url": "https://github.com/suei158/stellive-alert-public/releases/download/v1.0.1/StelliveAlert.exe",
-  "sha256": "68bc9a00117d30d5ce85f632773e52d09f77a235ccdefdfc36997b69e294974a",
-  "size": 112298546
+  "version": "1.0.0",
+  "notes": "공개판 새 시작 · 멀티뷰에서 멤버를 고르고 같이 보기를 누르면 치지직 공식 방송 창이 자동 정렬됩니다.",
+  "url": "https://github.com/suei158/stellive-alert-public/releases/download/v1.0.0/StelliveAlert.exe",
+  "sha256": "9cfe739640ebfcc6c855e530964bb3bb777d9615ae06fa8b84f45c5c813755a2",
+  "size": 112261386
 }
