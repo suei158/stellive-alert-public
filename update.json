@@ -1,7 +1,7 @@
 {
-  "version": "1.0.0",
-  "notes": "공개판 새 시작 · 멀티뷰에서 멤버를 고르고 같이 보기를 누르면 치지직 공식 방송 창이 자동 정렬됩니다.",
-  "url": "https://github.com/suei158/stellive-alert-public/releases/download/v1.0.0/StelliveAlert.exe",
-  "sha256": "9cfe739640ebfcc6c855e530964bb3bb777d9615ae06fa8b84f45c5c813755a2",
-  "size": 112261386
+  "version": "1.0.1",
+  "notes": "스페이스는 X 알림이 Chrome에 도착할 때 알려줍니다. X 알림 설정에서 멤버마다 새 게시물과 스페이스를 각각 선택할 수 있습니다. 기존 스페이스 선택은 유지됩니다.",
+  "url": "https://github.com/suei158/stellive-alert-public/releases/download/v1.0.1/StelliveAlert.exe",
+  "sha256": "0ea31d74a1abe8583ebd602d333fe4179c1ed6bf754b1d821375445650ae30d5",
+  "size": 112258168
 }
